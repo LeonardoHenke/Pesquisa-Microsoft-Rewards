@@ -1,4 +1,4 @@
-import pyautogui 
+import pyautogui
 from time import sleep
 
 x, y = 557, 125
